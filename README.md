@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven León
 - 👀 I’m interested in Web Development, specifically in Frontend
-- 🌱 I’m currently learning C#, .Net Core and SQL server
+- 🌱 I’m currently learning NodeJS, MongoDB and Angular <3 
 - 💞️ I’m looking to work on web development companies or freelance.
 - 📫 How to reach me // Instagram: @stevenmacana51 - LinkedIn: www.linkedin.com/in/steven-leon-macana
 
