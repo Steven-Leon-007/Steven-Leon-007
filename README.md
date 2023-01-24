@@ -1,9 +1,9 @@
 ![My Designer Logo :D](https://github.com/Steven-Leon-007/Steven-Leon-007/blob/main/github-readme-foto.png?raw=true)
 
 
-- 👋 I’m Steven León, Frontend Developer (Also a bit of Backend) :D
+- 👋 I’m Steven León, Full Stack Developer (Mostly Frontend) :D
 - 👀 I’m interested in great development projects, give them a unique and beautiful style <3
-- 🌱 I’m currently learning NodeJS with Express and HandleBars (For a project)
+- 🌱 I’m currently learning React, React Router and Redux and Testing with their best practices
 - 💞️ I’m looking to work on web development companies or freelance.
 - 📫 How to reach me // Instagram: @stevenmacana51 - LinkedIn: www.linkedin.com/in/steven-leon-macana
 
