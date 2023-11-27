@@ -1,10 +1,10 @@
 ![My Designer Logo :D](https://github.com/Steven-Leon-007/Steven-Leon-007/blob/main/github-readme-foto.png?raw=true)
 
 
-- 👋 I'm Steven León, Full Stack Developer (Mostly Frontend)
-- 👀 I'm interested in great development projects, give them a unique and beautiful style <3
-- 🌱 I'm currently learning Java Mobile Development, working in my first Startup with my homie :D
-- 💞️ I’m looking to work on web development companies or freelance.
+- 👋 Full Stack Developer and C124 Studios Co-Founder
+- 👀 Interested in great development projects, give them a unique and beautiful style <3
+- 🌱 Currently learning Java Mobile Development, working in my first Startup with my homie :D
+- 💞️ Looking to work on web development companies or freelance.
 - 📫 How to reach me // Instagram: @stevenmacana51 - LinkedIn: www.linkedin.com/in/steven-leon-macana
 
 ## My technology Stack:
