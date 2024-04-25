@@ -6,7 +6,7 @@
 - 👀 Interested in great development projects, give them a unique and beautiful style <3
 - 🌱 Currently learning Java Mobile Development, working in my first Startup with my homie :D
 - 💞️ Looking to work on web development companies or freelance.
-- 📫 How to reach me // Instagram: @stevenmacana51 - LinkedIn: www.linkedin.com/in/steven-leon-macana
+- 📫 How to reach me // LinkedIn: www.linkedin.com/in/steven-leon-macana
 
 ## My technology Stack:
 [<img align="left" alt="HTML" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />](HTML)
