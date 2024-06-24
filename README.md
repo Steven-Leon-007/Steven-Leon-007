@@ -4,7 +4,7 @@
 
 - 👋 Full Stack Developer and C124 Studios Co-Founder
 - 👀 Interested in great development projects, give them a unique and beautiful style <3
-- 🌱 Currently learning Java Mobile Development, working in my first Startup with my homie :D
+- 🌱 Currently learning React in depth for myself and Flutter for the company :D
 - 💞️ Looking to work on web development companies or freelance.
 - 📫 How to reach me // LinkedIn: www.linkedin.com/in/steven-leon-macana
 
