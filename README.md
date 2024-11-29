@@ -4,8 +4,8 @@
 
 - 👋 Full Stack Developer and C124 Studios Co-Founder
 - 👀 Interested in great development projects, give them a unique and beautiful style <3
-- 🌱 Currently learning and loving Flutter (New C124 Studios project coming soon) :D
-- 💞️ Looking to work on web development companies or freelance.
+- 🌱 Currently learning and loving Flutter (Get DoPixels now in the Play Store) :D
+- 💞️ Looking to work on mobile development companies or freelance.
 - 📫 How to reach me // LinkedIn: www.linkedin.com/in/steven-leon-macana
 
 ## My technology Stack:
