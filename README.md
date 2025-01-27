@@ -2,10 +2,9 @@
 
 ## Howdy!
 
-- 👋 Full Stack Developer and C124 Studios Co-Founder
+- 👋 Full Stack Developer and C124 Studios Co-Founder => [DoPixels](https://play.google.com/store/apps/details?id=com.c124studios.dopixels&pcampaignid=web_share) available now in the Play Store
 - 👀 Interested in great development projects, give them a unique and beautiful style <3
-- 🌱 Currently learning and loving Flutter (Get [DoPixels](https://play.google.com/store/apps/details?id=com.c124studios.dopixels&pcampaignid=web_share) now in the Play Store) :D
-- 💞️ Looking to work on mobile development companies or freelance.
+- 🌱 Web Stack MERN based | Mobile Stack Flutter based
 - 📫 How to reach me // LinkedIn: www.linkedin.com/in/steven-leon-macana
 
 ## My technology Stack:
