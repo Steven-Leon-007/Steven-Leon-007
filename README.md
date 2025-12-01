@@ -1,4 +1,4 @@
-![My Designer Logo :D](https://github.com/Steven-Leon-007/Steven-Leon-007/blob/main/github-readme-foto.png?raw=true)
+![My Designer Logo :D](https://github.com/Steven-Leon-007/Steven-Leon-007/blob/main/profile_banner.png?raw=true)
 
 ## Howdy!
 
